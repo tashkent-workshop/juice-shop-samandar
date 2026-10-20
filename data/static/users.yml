@@ -1,6 +1,6 @@
 -
   email: admin
-  password: 'admin123'
+  password: 'extremePASSWORD!'
   key: admin
   role: 'admin'
   securityQuestion:
